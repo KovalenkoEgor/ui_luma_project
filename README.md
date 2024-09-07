@@ -13,9 +13,9 @@
 * README.md - Этот файл.
 
 # Уставнока 
-  1. Клонировать репозиторий
+  1. ## Клонировать репозиторий
      ```git clone https://github.com/KovalenkoEgor/ui_luma_project.git```
-  2. Создайте и активируйте виртуальное окружение:
+  2. ## Создайте и активируйте виртуальное окружение:
      ```python -m venv venv```
      Для Linux/macOS:
     ```source venv/bin/activate```
