@@ -14,8 +14,8 @@
 
 # Уставнока
    
-  - ## Клонировать репозиторий
-        git clone https://github.com/KovalenkoEgor/ui_luma_project.git
+  - Клонировать репозиторий
+       git clone https://github.com/KovalenkoEgor/ui_luma_project.git
   - ## Создайте и активируйте виртуальное окружение:
         python -m venv venv
       ### Для Linux/macOS:
