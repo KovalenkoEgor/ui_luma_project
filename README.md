@@ -19,13 +19,13 @@
      ```python -m venv venv```
      #
      Для Linux/macOS:
-        ```source venv/bin/activate```
+        # ```source venv/bin/activate```
      #
      Для Windows:
-        ``` venv/Scripts/activate.ps1```
+        # ``` venv/Scripts/activate.ps1```
      #
   4. Установить зависимости:
-    ```pip install -r requirements.txt```
+     ```pip install -r requirements.txt```
   5. Для запуска всех тесток выполните следующую команду в корне проекта:
     ```pytest```
 # Page Object Model (POM)
