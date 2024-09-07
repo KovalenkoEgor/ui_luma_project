@@ -33,3 +33,6 @@
 
 # Allure report on GitHub
 Посмотреть последний репорт можно по [ссылке](http://localhost:63342/ui_luma_project/allure-reports/index.html?_ijt=s7cvgn6dvk3cuv6e56kne94vev&_ij_reload=RELOAD_ON_SAVE.)
+
+# Вклад в проект
+Все предложения по улучшению проекта приветствуются!
