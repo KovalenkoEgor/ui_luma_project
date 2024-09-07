@@ -13,17 +13,17 @@
 * README.md - Этот файл.
 
   # Уставнока 
-    1. ### Клонировать репозиторий
-            git clone https://github.com/KovalenkoEgor/ui_luma_project.git
-    2. ### Создайте и активируйте виртуальное окружение:
-            python -m venv venv
+  1. ## Клонировать репозиторий
+          git clone https://github.com/KovalenkoEgor/ui_luma_project.git
+  2. ## Создайте и активируйте виртуальное окружение:
+         python -m venv venv
         ### Для Linux/macOS:
             source venv/bin/activate
         ### Для Windows:
             venv/Scripts/activate.ps1
-    3. ## Установить зависимости:
-            pip install -r requirements.txt
-    4. ## Для запуска всех тесток выполните следующую команду в корне проекта:
+  3. ## Установить зависимости:
+          pip install -r requirements.txt
+  4. ## Для запуска всех тесток выполните следующую команду в корне проекта:
             pytest
       
 
