@@ -15,17 +15,17 @@
 # Уставнока
    
   - Клонировать репозиторий:
-      ```git clone https://github.com/KovalenkoEgor/ui_luma_project.git```
+    ```git clone https://github.com/KovalenkoEgor/ui_luma_project.git```
   - Создайте и активируйте виртуальное окружение:
-      ```python -m venv venv```
+    ```python -m venv venv```
        Для Linux/macOS:
-         ```source venv/bin/activate```
+       ```source venv/bin/activate```
        Для Windows:
-         ```venv/Scripts/activate.ps1```
+       ```venv/Scripts/activate.ps1```
   - Установить зависимости:
-       ```pip install -r requirements.txt```
+    ```pip install -r requirements.txt```
   - Для запуска всех тесток выполните следующую команду в корне проекта:
-       ```pytest```  
+    ```pytest```  
       
 
 # Page Object Model (POM)
